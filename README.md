@@ -47,4 +47,4 @@ Exibição do resultado: A mensagem de sucesso é registrada nos logs do GitHub 
 
 ## 6. Resultado da executado
 
-Quando a pipeline termina de ser interpretada e executada, o GitHub Actions fornece um log detalhado. Se rodar o arquivo sem erros, um ícone de "check" verde (✅) aparecerá ao lado do commit. Caso ocorra algum erro no script ou na configuração, um "X" vermelho (❌) indicará que a integração falhou, permitindo assim, uma correção rápida.
+Quando a pipeline termina de ser interpretada e executada, o GitHub Actions fornece um log detalhado. Se rodar o arquivo sem erros, um ícone de "check" ✅ aparecerá ao lado do commit. Caso ocorra algum erro no script ou na configuração, um (❌) indicará que a integração falhou, permitindo assim, uma correção rápida.
