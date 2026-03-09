@@ -6,7 +6,7 @@ Uma pipeline simples utilizando CI (Integração Continua), utilizando a ferrame
 
 ## 2. Objetivo da atividade
 
-Executar uma mensagem onde indica que o código foi executado com sucesso.
+Executar uma mensagem de texto onde indica que o código foi executado com sucesso.
 
 ## 3. Estrutura do Projeto
 
@@ -15,4 +15,5 @@ Executar uma mensagem onde indica que o código foi executado com sucesso.
 README.md
 
 ## 4. Explicação do WorkFlow
+
 
