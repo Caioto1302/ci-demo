@@ -41,8 +41,11 @@ steps -> Representa a sequência de ações dentro do job
 ## 5. Fluxo do Pipeline
 
 Push no GitHub: O usuário envia alterações para o repositório.
+
 Execução do pipeline: O GitHub detecta o arquivo em .github/workflows/ e inicia o first-job.
+
 Execução do comando: A máquina virtual Ubuntu executa o comando echo.
+
 Exibição do resultado: A mensagem de sucesso é registrada nos logs do GitHub Actions.
 
 ## 6. Resultado da executado
